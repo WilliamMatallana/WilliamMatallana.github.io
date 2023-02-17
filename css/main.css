@@ -5,7 +5,7 @@
 
 .titulos {
     color: black;
-    background-color:  #bfc9ca ;
+    background-color:   #7f8c8d  ;
     font-size: xx-large;
     text-align: center;
 }
@@ -19,3 +19,13 @@
     color: black;
     font-size: large;
 }
+
+.fondo {
+    background-color: whitesmoke;
+}
+
+.foto {
+    text-align: center;
+    display: block;
+}
+
