@@ -1,27 +1,34 @@
-.datosperrsonales {
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+.datospersonales {
     color: black;
+    font-family: 'Montserrat', sans-serif;
     font-size: large;
+    
 }
 
 .titulos {
-    color: black;
-    background-color:   #7f8c8d  ;
+    background-color:    #34495e   ;
+    font-family: 'Montserrat', sans-serif;
     font-size: xx-large;
+    font-weight: bold;
     text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    border-radius: .5rem;
 }
 
 .descripcion {
-    color: black;
     font-size: large;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .formacion {
-    color: black;
     font-size: large;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .fondo {
-    background-color: whitesmoke;
+    background-color: #AEB6BF;
 }
 
 .foto {
