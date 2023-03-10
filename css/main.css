@@ -18,8 +18,9 @@
 }
 
 .descripcion {
-    font-size: large;
+    color: black;
     font-family: 'Montserrat', sans-serif;
+    font-size: large;
 }
 
 .formacion {
